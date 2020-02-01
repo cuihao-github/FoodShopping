@@ -10,12 +10,6 @@ export default {
 </script>
 <style lang="less" scoped>
     .container {
-        width: 100%;
-        height: 100%;
-        background: #2b4b6b;
-        h1 {
-            text-align: center;
-        }
     }
 </style>>
 
